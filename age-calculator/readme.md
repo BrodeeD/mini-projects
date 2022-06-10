@@ -1,6 +1,6 @@
 # Age Calculator
 
-## <a href=file:///home/brodeed/projects/mini-projects/age-calculator/index.html>Live Preview</a>
+## <a href=https://friendly-stardust-cf91e0.netlify.app/>Live Preview</a>
 
 It is a simple Javascript project which calculates your age.
 
