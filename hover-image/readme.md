@@ -2,10 +2,9 @@
 
 ## <a href=https://hover-image.netlify.app/>Live Preview</a>
 
-Simple flappy bird inspired game using HTML, CSS, and Javascript.
+Image hovers when mouse is over it using CSS.
 
 ## Skills displayed
 
 - HTML
 - CSS
-- Javascript

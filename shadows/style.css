@@ -1,0 +1,19 @@
+body{
+    background-color: #E6E6E6;
+}
+.main{
+  margin: auto;
+  width: 60%;
+}
+img{
+    margin: auto;
+    width: 200px;
+    float: left;
+    margin: 150px 50px;
+}
+.box-shadow{
+    box-shadow: 10px 10px 10px;
+}
+.drop-shadow{
+    filter: drop-shadow(10px 20px 15px);
+}
